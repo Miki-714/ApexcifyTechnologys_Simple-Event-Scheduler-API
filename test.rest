@@ -1,0 +1,11 @@
+###
+POST http://localhost:3000/events
+Content-Type: application/json
+
+{
+  "title": "Retro Party", 
+  "date": "2029-04-20", 
+  "description": "This should fail"
+}
+###
+GET  http://localhost:3000/events
