@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Event Scheduler API 📅
 
 A lightweight, robust RESTful API built with **Express.js** to manage and schedule upcoming events. This project demonstrates backend fundamentals including data validation, chronological sorting, and RESTful routing.
@@ -87,3 +88,6 @@ curl -X POST http://localhost:3000/events \
 -d '{"title": "Tech Talk", "date": "2026-06-10", "description": "Discussing Express middleware"}'
 ```
 ````
+=======
+Simple Event Scheduler API
+>>>>>>> 714bcb27a8b004d7d827cbcae1187163fe79918f
